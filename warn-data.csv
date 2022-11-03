@@ -83,3 +83,5 @@ warn_date,naics_code,biz,address,wia_code,total_employees,effective_date,type_co
 10/6/2022,325412,Jubilant Cadista Pharmaceuticals Inc.,"207 Kiley Drive                     Salisbury, MD 21801",5,80,11/23/2022,2
 10/21/2022,522110,Wells Fargo,"7860 Wormans Mill Rd.  Frederick, MD 21701",4,5,12/18/2022,2
 10/27/2022,541330,Jacobs Technology,"Aberdeen Test Center   Building 402, Suite 200  Aberdeen Proving Ground, MD 21005",10,520,11/30/2022,2
+11/1/2022,424340,"Fila USA, Inc.","7630 Gambrills Cove   Curtis Bay, MD 21226",1,54,12/31/2022,2
+11/1/2022,424340,"Fila USA, Inc.","930 Ridgebrook Road   Sparks, MD 21152",2,7,12/31/2022,2
