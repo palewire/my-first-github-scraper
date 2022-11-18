@@ -89,3 +89,5 @@ warn_date,naics_code,biz,address,wia_code,total_employees,effective_date,type_co
 11/4/2022,522110,Wells Fargo,"7860 Wormans Mill Road Frederick, MD 21701",4,31,1/1/2023,2
 11/10/2022,445110,Price Rite Store,"1205 West Pratt Street  Baltimore, MD 21223",3,31,12/31/2022,1
 11/15/2022,541713,"NexImmune, Inc.","9119 Gaither Road      Gaithersburg, MD 20877",7,22,1/16/2023,2
+11/16/2022,325414,"Catalent Maryland, Inc.","20 Firstfield Road  Gaithersburg, Maryland 20878",7,82,1/14/2023,1
+11/16/2022,325414,"Catalent Maryland, Inc.","9920 Belward Campus Drive                  Rockville, MD 20850",7,53,1/14/2023,1
