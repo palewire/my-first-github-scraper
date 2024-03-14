@@ -1,41 +1,58 @@
 warn_date,naics_code,biz,address,wia_code,total_employees,effective_date,type_code
 1/1/2024,492110,DHL eCommerce,"6670 Business Parkway        Ste 103                              Elkridge, MD 21075",Howard,120,3/1/2024,Plant Closure
 1/4/2024,325412,"Adaptive Phage
-                      Therapeutics, Inc.","708 Quince Orchard Rd.
-                      Suite 205
-                      Gaithersburg, MD 20878",Montgomery,19,3/5/2024,Mass Layoff - No Recall
+          Therapeutics, Inc.","708 Quince Orchard Rd.
+          Suite 205
+          Gaithersburg, MD 20878",Montgomery,19,3/5/2024,Mass Layoff - No Recall
 1/4/2024,561720,"Newbold Services, LLC","600 Principio Pkwy West
-                      North East, MD 21901",SUSQUEHANNA,37,3/5/2024,Mass Layoff - No Recall
+          North East, MD 21901",SUSQUEHANNA,37,3/5/2024,Mass Layoff - No Recall
 1/9/2024,332618,"The AMES Company/
-                      ClosetMaid","1 ClosetMaid Drive
-                      Grantsville, MD 21536",Western Maryland,123,3/28/2024,Plant Closure
+          ClosetMaid","1 ClosetMaid Drive
+          Grantsville, MD 21536",Western Maryland,123,3/28/2024,Plant Closure
 1/11/2024,541512,"CACI, Inc. - Federal","1681 Nelson Street
-                      Fort Detrick, MD 21702",Frederick,61,3/5/2024,"Mass Layoff -
-                      No Recall"
+          Fort Detrick, MD 21702",Frederick,61,3/5/2024,"Mass Layoff -
+          No Recall"
 1/26/2024,492210,UPS,"3901 Vero Road
-                      Halethorpe, MD 21227",Baltimore County,118,3/26/2024,Mass Layoff - No Recall
+          Halethorpe, MD 21227",Baltimore County,118,3/26/2024,Mass Layoff - No Recall
 1/29/2024,541715,Exact Sciences,"1812 Ashland Avenue Baltimore, MD 21205",Baltimore City,58,3/31/2024,Plant Closure
 2/12/2024,722513,"MON AMI
-                      BETHESDA,
-                      LLC","7239
-                      Woodmont
-                      Avenue
-                      Bethesda,
-                      MD 20814",Montgomery County,55,4/1/2024,Mass Layoff - No Recall
+          BETHESDA,
+          LLC","7239
+          Woodmont
+          Avenue
+          Bethesda,
+          MD 20814",Montgomery County,55,4/1/2024,Mass Layoff - No Recall
 2/14/2024,812921,"District Photo, Inc.","10501 Rhode
-                      Island
-                      Avenue
-                      Beltsville, MD
-                      20705",Prince George's County,64,4/14/2024,Mass Layoff - No Recall
+          Island
+          Avenue
+          Beltsville, MD
+          20705",Prince George's County,64,4/14/2024,Mass Layoff - No Recall
 2/22/2024,333922,"Daifuku
-                      Services
-                      America
-                      Corporation","2010 Broening Highway
-                      Baltimore, MD 21224",Baltimore City,67,4/22/2024,Mass Layoff - No Recall
+          Services
+          America
+          Corporation","2010 Broening Highway
+          Baltimore, MD 21224",Baltimore City,67,4/22/2024,Mass Layoff - No Recall
 2/26/2024,423220,"The Home
-                      Depot","12087 Rockville Pike
-                      Rockville, MD 20852",Montgomery,19,4/23/2024,Mass Layoff - No Recall
+          Depot","12087 Rockville Pike
+          Rockville, MD 20852",Montgomery,19,4/23/2024,Mass Layoff - No Recall
 2/26/2024,423220,"The Home
-                      Depot","7750 Airpark Road
-                      Gaithersburg, MD
-                      20879",Montgomery,21,4/23/2024,Mass Layoff - No Recall
+          Depot","7750 Airpark Road
+          Gaithersburg, MD
+          20879",Montgomery,21,4/23/2024,Mass Layoff - No Recall
+03/07/2024,221114,ADT Solar,"20403-05 Seneca
+          Meadows Pkwy
+          Germantown, MD
+          20876",Montgomery,28,02/23/2024,Plant Closure
+03/08/2024,561311,"Jobandtalent
+          Hirings, LLC
+          d/b/a LGS
+          Staffing","200 Gateway Drive
+          Northeast, MD 21901",Cecil,125,5/10/2024,Mass Layoff - No Recall
+3/8/2024,455110,Walmart,"1238 Putty Hill Avenue
+Suite 5
+Towson, Maryland
+21286","Baltimore
+County",213,4/12/2024,Plant Closure
+03/11/2024,561320,"Adecco USA,
+          Inc.","200 Gateway Drive
+          North East, MD 21901",Cecil,45,5/10/2024,Mass Layoff - No Recall
