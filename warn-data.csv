@@ -39,10 +39,10 @@ warn_date,naics_code,biz,address,wia_code,total_employees,effective_date,type_co
         Depot","7750 Airpark Road
         Gaithersburg, MD
         20879",Montgomery,21,4/23/2024,Mass Layoff - No Recall
-03/07/2024,221114,ADT Solar,"20403-05 Seneca
+3/07/2024,221114,ADT Solar,"20403-05 Seneca
         Meadows Pkwy
         Germantown, MD
-        20876",Montgomery,28,02/23/2024,Plant Closure
+        20876",Montgomery,28,2/23/2024,Plant Closure
 03/08/2024,561311,"Jobandtalent
         Hirings, LLC
         d/b/a LGS
@@ -53,7 +53,7 @@ warn_date,naics_code,biz,address,wia_code,total_employees,effective_date,type_co
         Towson, Maryland
         21286","Baltimore
         County",213,4/12/2024,Plant Closure
-03/11/2024,561320,"Adecco USA,
+3/11/2024,561320,"Adecco USA,
         Inc.","200 Gateway Drive
         North East, MD 21901",Cecil,45,5/10/2024,Mass Layoff - No Recall
 3/11/2024,423850,"Essendant
@@ -84,7 +84,7 @@ warn_date,naics_code,biz,address,wia_code,total_employees,effective_date,type_co
 3/19/2024,812930,"Reimagined
         Parking","1530 Thames Street
         Baltimore, MD 21231",Baltimore City,4,5/18/2024,Plant Closure
-03/22/2024,221118,"AES Warrior
+3/22/2024,221118,"AES Warrior
         Run, Limited
         Partnership","11600 Mexico Farms
         Road, SE
@@ -143,7 +143,7 @@ warn_date,naics_code,biz,address,wia_code,total_employees,effective_date,type_co
         San Francisco, CA
         94103",Out of State,2,5/31/2024,"Mass Layoff - No
         Recall"
-04/02/2024,624230,"Upper
+4/02/2024,624230,"Upper
 Chesapeake
 Emergency
 Medicine
@@ -151,4 +151,4 @@ Physicians,
 LLC
 (âUCEMPâ)","250 W. Pratt Street,
 Suite 1320
-Baltimore, MD 21201",Baltimore City,190,06/01/2024,Mass Layoff - No Recall
+Baltimore, MD 21201",Baltimore City,190,6/01/2024,Mass Layoff - No Recall
