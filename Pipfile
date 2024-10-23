@@ -5,9 +5,9 @@ name = "pypi"
 
 [packages]
 jupyterlab = "*"
+jupyter = "*"
 requests = "*"
 bs4 = "*"
-jupyter = "*"
 
 [dev-packages]
 
