@@ -245,8 +245,8 @@ warn_date,naics_code,biz,address,wia_code,total_employees,effective_date,type_co
           Way
           Columbia, MD 21044",Howard,20,8/13/2024,Mass Layoff - No Recall
 6/20/2024,492210,"United Parcel
-Service, Inc.","3901 Vero Road
-Baltimore, MD 21227",Baltimore County,540,8/23/2024,Plant Closure
+          Service, Inc.","3901 Vero Road
+          Baltimore, MD 21227",Baltimore County,540,8/23/2024,Plant Closure
 6/20/2024,485510,"Megabus
           Northeast, LLC","2320 Beaver Road
           Landover, MD 20785","Prince
@@ -256,71 +256,104 @@ Baltimore, MD 21227",Baltimore County,540,8/23/2024,Plant Closure
           Delights, Inc.","105 N. Market Street
           Frederick, MD 21701",Frederick,63,6/19/2024,Plant Closure
 7/16/2024,424490,SpartanNash,"6304 Sheriff Road
-Landover, MD 20785",Prince George's,141,9/30/2024,Plant Closure
+          Landover, MD 20785",Prince George's,141,9/30/2024,Plant Closure
 7/26/2024,541330,"National
-Aerospace
-Solutions, LLC
-(NAS) - Tunnel
-9 Facility","10905 New
-Hampshire Avenue
-Bldg. 405
-Silver Spring, MD
-20904",Montgomery,30,9/30/2024,Mass Layoff - No Recall
+          Aerospace
+          Solutions, LLC
+          (NAS) - Tunnel
+          9 Facility","10905 New
+          Hampshire Avenue
+          Bldg. 405
+          Silver Spring, MD
+          20904",Montgomery,30,9/30/2024,Mass Layoff - No Recall
 7/30/2024,424340,"Adidas
-America, Inc.","12741 Ocean
-Gateway Unit 919
-Ocean City, MD 21842",Lower Shore,6,9/17/2024,Plant Closure
+          America, Inc.","12741 Ocean
+          Gateway Unit 919
+          Ocean City, MD 21842",Lower Shore,6,9/17/2024,Plant Closure
 8/02/2024,541715,"Charles River
-Laboratories","15 Wormans Mill
-Court
-Suite 1
-Frederick, MD 21701",Frederick,13,9/30/2024,"Mass Layoff - No
-Recall"
+          Laboratories","15 Wormans Mill
+          Court
+          Suite 1
+          Frederick, MD 21701",Frederick,13,9/30/2024,"Mass Layoff - No
+          Recall"
 08/10/2024,423420,Pitney Bowes,"1781 Crossroads Dr.
-Odenton, MD 21113",Anne Arundel,50,10/08/2024,Plant Closure
+          Odenton, MD 21113",Anne Arundel,50,10/08/2024,Plant Closure
 8/13/2024,711310,"ASM Global
-at The Lyric","140 West Mount Royal
-Avenue
-Baltimore, MD 21201",Baltimore City,233,9/30/2024,"Mass Layoff - No
-Recall"
+          at The Lyric","140 West Mount Royal
+          Avenue
+          Baltimore, MD 21201",Baltimore City,233,9/30/2024,"Mass Layoff - No
+          Recall"
 8/19/2024,423220,"American
-Signature, Inc.
-d/b/a Value
-City Furniture","7735 Eastern Avenue
-Baltimore, MD 21224","Baltimore
-County",24,10/22/2024,Plant Closure
+          Signature, Inc.
+          d/b/a Value
+          City Furniture","7735 Eastern Avenue
+          Baltimore, MD 21224","Baltimore
+          County",24,10/22/2024,Plant Closure
 8/23/2024,523999,"Alta Finance
-Group, LLC","1125 Charles Street
-Baltimore, MD 21201",Baltimore City,25,10/22/2024,"Mass Layoff - No
-Recall"
+          Group, LLC","1125 Charles Street
+          Baltimore, MD 21201",Baltimore City,25,10/22/2024,"Mass Layoff - No
+          Recall"
 9/13/2024,562920,"WM - Waste
-Management","7175 Kit Kat Road
-Elkridge, MD 21075",Howard,66,11/16/2024,Plant Closure
+          Management","7175 Kit Kat Road
+          Elkridge, MD 21075",Howard,66,11/16/2024,Plant Closure
 9/16/2024,323111,BC Graphics,"3030 Waterview
-Avenue
-Baltimore, MD 21230",Baltimore City,144,11/15/2024,Plant Closure
+          Avenue
+          Baltimore, MD 21230",Baltimore City,144,11/15/2024,Plant Closure
 10/15/2024,445298,"Lancaster
-Foods, LLC","7700 Conowingo
-Avenue
-Jessup, MD 20794",Howard,424,12/14/2024,Plant Closure
+          Foods, LLC","7700 Conowingo
+          Avenue
+          Jessup, MD 20794",Howard,424,12/14/2024,Plant Closure
 10/23/2024,321999,Resolute Forest Products,"19224 Longmeadow Road Hagerstown, MD
-21742",Western Maryland,75,10/28/2024,"Mass Layoff - No
-Recall"
+          21742",Western Maryland,75,10/28/2024,"Mass Layoff - No
+          Recall"
 10/29/2024,541330,Intuitive Machines,"8800 Greenbelt Road Greenbelt, MD 20771",Prince George's,35,12/01/2024,"Mass Layoff - No
-Recall"
+          Recall"
 11/01/2024,115116,"Bowery
-Farming Inc.","10000 Franklin
-Square Drive
-Suite 300
-Nottingham, MD
-21236","Baltimore
-County",83,11/01/2024,Plant Closure
+          Farming Inc.","10000 Franklin
+          Square Drive
+          Suite 300
+          Nottingham, MD
+          21236","Baltimore
+          County",83,11/01/2024,Plant Closure
 11/07/2024,423990,"Louis Vuitton USA, Inc.","5555 Wisconsin Avenue 
-Chevy Chase, MD 20815",Montgomery,7,01/06/2025,Plant Closure
+          Chevy Chase, MD 20815",Montgomery,7,01/06/2025,Plant Closure
 11/07/2024,561612,"Universal Protection Service, LLC d/b/a Allied Universal Security Services","Arundel Mills Mall 7000 Arundel Mills Circle
-Hanover, MD 21076",Anne Arundel,18,01/09/2025,"Mass Layoff - No
-Recall"
+          Hanover, MD 21076",Anne Arundel,18,01/09/2025,"Mass Layoff - No
+          Recall"
 11/14/2024,337215,"Tate Access 
-Floors, Inc.","7510 Montevideo Rd Jessup, MD 20794",Anne Arundel,32,1/08/2025,Plant Closure
+          Floors, Inc.","7510 Montevideo Rd Jessup, MD 20794",Anne Arundel,32,1/08/2025,Plant Closure
 11/14/2024,721110,"Marriott International, Inc.","7750 Wisconsin Avenue  Bethesda, MD 20814",Montgomery,833,1/03/2025,"Mass Layoff - No
-Recall"
+          Recall"
+11/18/2024,722310,"Sodexo, Inc 
+          and Affiliates","Sodexo, Inc and 
+          Affiliates 
+          Asbury Methodist Maryland
+          Village - Crawford
+          405 Russell Ave
+          Gaithersburg, MD
+          20877
+
+          Sodexo, Inc and
+          Affiliates
+          Asbury Methodist
+          Village - Hefner
+          417 Russell Ave
+          Gaithersburg, MD
+          20877 
+
+          Sodexo, Inc and
+          Affiliates
+          Asbury Methodist
+          Village - Wilson
+          333 Russell Ave
+          Gaithersburg, MD
+          20877 
+
+          Sodexo, Inc and
+          Affiliates
+          Asbury Methodist
+          Village - Solomons
+          Island
+          11100 Asbury Cir
+          Solomons, MD 20688",Montgomery & Southern Maryland,14,1/15/2025,"Mass Layoff - No
+          Recall"
