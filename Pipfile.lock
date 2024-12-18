@@ -581,11 +581,11 @@
         },
         "jupyter-events": {
             "hashes": [
-                "sha256:4b72130875e59d57716d327ea70d3ebc3af1944d3717e5a498b8a06c6c159960",
-                "sha256:670b8229d3cc882ec782144ed22e0d29e1c2d639263f92ca8383e66682845e22"
+                "sha256:36399b41ce1ca45fe8b8271067d6a140ffa54cec4028e95491c93b78a855cacf",
+                "sha256:c0bc56a37aac29c1fbc3bcfbddb8c8c49533f9cf11f1c4e6adadba936574ab90"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==0.10.0"
+            "markers": "python_version >= '3.9'",
+            "version": "==0.11.0"
         },
         "jupyter-lsp": {
             "hashes": [
